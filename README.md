@@ -32,6 +32,6 @@ Closed with non-monetary relief or in private.
 This analysis raises important questions about customer service transparency in banking. Contributions and discussions are welcome!
 
 ## EXCEL workbook :
-https://onedrive.live.com/:x:/g/personal/11F963809B079DAA/ETe0imWFSa5Ou-ayfvOwEcoBQr68MYHT6MxsEAaSDOEx1w?resid=11F963809B079DAA!s658ab43749854eaebbe6b27ef3b011ca&ithint=file%2Cxlsx&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xMWY5NjM4MDliMDc5ZGFhL0VUZTBpbVdGU2E1T3UtYXlmdk93RWNvQlFyNjhNWUhUNk14c0VBYVNET0V4MXc
+[https://onedrive.live.com/:x:/g/personal/11F963809B079DAA/ETe0imWFSa5Ou-ayfvOwEcoBQr68MYHT6MxsEAaSDOEx1w?resid=11F963809B079DAA!s658ab43749854eaebbe6b27ef3b011ca&ithint=file%2Cxlsx&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8xMWY5NjM4MDliMDc5ZGFhL0VUZTBpbVdGU2E1T3UtYXlmdk93RWNvQlFyNjhNWUhUNk14c0VBYVNET0V4MXc](https://1drv.ms/x/c/11f963809b079daa/Ebxie-gxQVtCuyBxVzmnlBoBLkd20YGSIezGvgMRKoPmuw?e=ouLcqP&nav=MTVfe0MyODM4NDZGLTA0QTAtNEY1Qy04NThDLTJGRTg0QzAwQTA2NH0)
 ## 🚀 Contacts
 kantesanaba78@gmail.com
