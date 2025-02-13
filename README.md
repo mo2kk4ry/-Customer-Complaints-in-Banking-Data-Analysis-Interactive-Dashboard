@@ -25,8 +25,10 @@ Closed with explanation ,
 Closed with monetary relief,
 Closed with non-monetary relief or in private.
 ## 📈 Data Processing & Visualization
--Data Cleaning: The dataset required extensive preprocessing before analysis(imputations,formulas,formating)
+-Data Cleaning: The dataset required extensive preprocessing before analysis(imputations,formulas,formating).
+
 -Pivot Tables: Used to identify trends before visualization.
+
 -Interactive Dashboard: Allows filtering by year, product, state, and submission method for deeper insights.
 
 This analysis raises important questions about customer service transparency in banking. Contributions and discussions are welcome!
